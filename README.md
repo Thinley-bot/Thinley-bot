@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+![image](https://github.com/Thinley-bot/Thinley-bot/assets/80090521/3c95c8f4-b2ba-4aa4-aa9e-fdd4c7e53b03) 
+# About Me:
+<br/>
+**A passionate aspiring web developer from Philippines**
 <!--
 **Thinley-bot/Thinley-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
