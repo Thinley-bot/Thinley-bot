@@ -24,6 +24,6 @@
 <a href="https://codesandbox.com/thinley-bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="thinley-bot" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/thinley.norbbuu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thinley.norbbuu/" height="30" width="40" /></a>
 </p>
-
+<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
