@@ -2,9 +2,10 @@
 
 # About Me: 
 <h2 align="center">Hi 👋, I'm Thinley Norbu, a passionate aspiring technophile from Bhutan.</h2>
-<p>Engineering student who specializes in AI, Redhat,React and Dajngo. Currently Graduated from College of Science and Technology.I am driven by my passion for web development. I am constantly exploring new technologies and seeking knowledge to become a skilled web developer. Through my academic pursuits and personal projects, I am honing my skills and gaining valuable experience in the field of computer science. With my strong work ethic and dedication to learning, I am confident that I will achieve my goal of becoming a successful web developer.</p>
+<p>Engineering student who specializes in AI, Redhat,React and Django. Currently Graduated from College of Science and Technology.I am driven by my passion for web development. I am constantly exploring new technologies and seeking knowledge to become a skilled web developer. Through my academic pursuits and personal projects, I am honing my skills and gaining valuable experience in the field of computer science. With my strong work ethic and dedication to learning, I am confident that I will achieve my goal of becoming a successful web developer.</p>
 
 <h2>Progress:</h2>
+
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="developer-icon"/>
 
 - 🔭 I’m currently working on Personal Profile using React Library.
