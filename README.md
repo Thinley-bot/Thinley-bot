@@ -1,4 +1,4 @@
-![image](https://github.com/Thinley-bot/Thinley-bot/assets/80090521/0987b57e-0090-4d8c-be59-4a3e21dec09d) <span>“Being a small nation makes us a smart nation, this is not out of choice but out of necessity, Technology is an indispensable tool that will be necessary to realise this aspiration.”</span>
+![image](https://drive.google.com/drive/my-drive)
 
 # About Me: 
 <h2 align="center">Hi 👋, I'm Thinley Norbu, a passionate aspiring technophile from Bhutan.</h2>
