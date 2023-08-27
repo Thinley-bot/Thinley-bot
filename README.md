@@ -1,4 +1,4 @@
-![Uploading Untitled-1.png…]()
+![Alt text](https://drive.google.com/drive/my-drive)
 
 # About Me: 
 <h2 align="center">Hi 👋, I'm Thinley Norbu, a passionate aspiring technophile from Bhutan.</h2>
