@@ -1,14 +1,13 @@
-![Alt text](https://drive.google.com/drive/my-drive)
-
+![Untitled-1](https://github.com/Thinley-bot/Thinley-bot/assets/80090521/4d29e5a4-fab1-43e7-810c-1123697be066)
 # About Me: 
 <h2 align="center">Hi 👋, I'm Thinley Norbu, a passionate aspiring technophile from Bhutan.</h2>
-<p>Engineering student who specializes in AI, Redhat,React and Django. Currently Graduated from College of Science and Technology.I am driven by my passion for web development. I am constantly exploring new technologies and seeking knowledge to become a skilled web developer. Through my academic pursuits and personal projects, I am honing my skills and gaining valuable experience in the field of computer science. With my strong work ethic and dedication to learning, I am confident that I will achieve my goal of becoming a successful web developer.</p>
+<p>Currently I am working under a IRIS company as a software engineer and data analyst. I am constantly exploring new technologies and seeking knowledge to become a skilled web developer. My Tech-Stack is Django and T3-Stack which includes Nextjs,Tailwind as frontend and prisma,tRPC,postgresql as my backend. I also worked in development of Bhutan's translation application development project and we did as our FYP back at college and it was succesful one. I take on new challenges as path forward and i go uptp my limit although i lack some logical background.</p>
 
 <h2>Progress:</h2>
 
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="developer-icon"/>
 
-- 🔭 I’m currently working on the Data Warehousing project.
+- 🔭 I’m currently working on the RBP-web redesign.
 - 🌱 I’m currently learning T3 stack for typesafety which inlcudes TS,Tailwind-utitlity-first css framework,tRPC-typescript Remote procedural call,prisma-ORM,PostGreSQL-DB.
 - 📫 How to reach me **thinleynorbu210@gmail.com**
 - 💬 Ask me about Programming.
@@ -24,6 +23,6 @@
 <a href="https://codesandbox.com/thinley-bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="thinley-bot" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/thinley.norbbuu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thinley.norbbuu/" height="30" width="40" /></a>
 </p>
-<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
 
 
