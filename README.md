@@ -1,6 +1,6 @@
 # About Me: 
 <h1 align="center">Hi 👋, I'm Thinley Norbu</h1>
-<h3 align="center">Currently I am working under a IRIS company as a software engineer and data analyst. I am constantly exploring new technologies and seeking knowledge to become a skilled web developer. My Tech-Stack is Django and T3-Stack which includes Nextjs,Tailwind as frontend and prisma,tRPC,postgresql as my backend. I also worked in development of Bhutan's translation application development project and we did as our FYP back at college and it was succesful one. I take on new challenges as path forward and i go upto my limit although i lack some logical background.</h3>
+<h3 align="center">Currently I am working under a IRIS company as a software engineer and data analyst. I am constantly exploring new technologies and seeking knowledge to become a skilled web developer. My Tech-Stack is SpringBoot+React and T3-Stack which includes Nextjs,Tailwind as frontend and prisma,tRPC,postgresql as my backend. I also worked in development of Bhutan's translation application development project and we did as our FYP back at college and it was succesful one. I take on new challenges as path forward and i go upto my limit although i lack some logical background.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinley-bot&label=Profile%20views&color=0e75b6&style=flat" alt="thinley-bot" /> </p>
 
