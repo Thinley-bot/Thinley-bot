@@ -1,6 +1,6 @@
-<h2> Hi, I'm Thinley Norbu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Thinley Norbu! <img src="https://github.com/user-attachments/assets/7569c057-58ea-4488-ae8a-1fc3f3712cfb" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Assistant ICT Officer(Application) at <a href="http://www.unb.br">Royal Monetary Authority</a><img src="https://github.com/user-attachments/assets/7569c057-58ea-4488-ae8a-1fc3f3712cfb" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Assistant ICT Officer(Application) at <a href="http://www.unb.br">Royal Monetary Authority</a>
 </em></p>
 
 [![Linkedin: ThinleyNorbu](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thinley-norbu-abb565248/)
