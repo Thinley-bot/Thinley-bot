@@ -1,7 +1,1 @@
-![brochure](https://github.com/user-attachments/assets/272ca894-707b-46e3-bfea-43344743ecd7)
-
-
-
-
-
-
+![Khorlo](https://github.com/user-attachments/assets/7569c057-58ea-4488-ae8a-1fc3f3712cfb)
