@@ -1,5 +1,5 @@
-<h2> Hi, I'm Thinley Norbu! <img src="https://github.com/user-attachments/assets/7569c057-58ea-4488-ae8a-1fc3f3712cfb" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Thinley Norbu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://github.com/user-attachments/assets/7569c057-58ea-4488-ae8a-1fc3f3712cfb" width="230">
 <p><em>Assistant ICT Officer(Application) at <a href="http://www.unb.br">Royal Monetary Authority</a>
 </em></p>
 
